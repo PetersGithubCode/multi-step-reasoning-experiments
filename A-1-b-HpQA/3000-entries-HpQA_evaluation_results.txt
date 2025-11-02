@@ -1,0 +1,21 @@
+{
+    "hop_num": "1",
+    "total_samples_evaluated": 645,
+    "average_recall": 0.3922480620155039,
+    "mean_average_precision": 0.30697674418604654
+}{
+    "hop_num": "2",
+    "total_samples_evaluated": 611,
+    "average_recall": 0.6284779050736498,
+    "mean_average_precision": 0.6117021276595744
+}{
+    "hop_num": "3",
+    "total_samples_evaluated": 471,
+    "average_recall": 0.6178343949044586,
+    "mean_average_precision": 0.6762208067940555
+}{
+    "hop_num": "4",
+    "total_samples_evaluated": 878,
+    "average_recall": 0.5671981776765376,
+    "mean_average_precision": 0.7529897494305239
+}
